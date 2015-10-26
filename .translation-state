@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3745d9afabada7419484c18a402249c8926ddec4",
+  "LastProcessedCommit": "2748b8410c314023d263b8a2a645b75f393cc844",
   "LastTranslatedCommit": null,
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
@@ -68,21 +68,6 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-tw\\master\\851345687639b6942357c4f7518a4fe528d952da.xlf",
-      "HandoffFileCommit": "423ee5f1ac5c1f181bc2156b2ffe3e7dd9f9bcc5",
-      "HandoffReason": 1,
-      "HandoffDateTime": "2015-10-13T03:51:36.1585342Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
-    },
-    "e619d100df5a48af0729a7267eb416810cefcb98": {
-      "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
-      "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-tw\\master\\e619d100df5a48af0729a7267eb416810cefcb98.xlf",
       "HandoffFileCommit": "423ee5f1ac5c1f181bc2156b2ffe3e7dd9f9bcc5",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-10-13T03:51:36.1585342Z",
@@ -1600,6 +1585,21 @@
       "HandoffFileCommit": "da6f9b15df7d3ca73a3070ddfd6872336049753f",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-10-23T20:38:41.9417647Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "435d2b60fb6ed9b47114f8dbb2a6fc0cfe803803": {
+      "SourceFileCommit": "2748b8410c314023d263b8a2a645b75f393cc844",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-tw\\master\\435d2b60fb6ed9b47114f8dbb2a6fc0cfe803803.xlf",
+      "HandoffFileCommit": "36998adc1fa9778e21865529154bb02aded65857",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-10-26T09:08:55.945997Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
