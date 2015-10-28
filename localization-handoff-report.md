@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/579ca159f4834a3749a3fdaaea93734a2982d809/virtualization/windowscontainers/reference/ps_docker_comparison.md) | HandedOff | [Details](#a3901c8d691fd09533a40e9e689d32d2c2e22a0e263)
+ [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/26fd891c3f930fd6a244f30ba33fe08e01456d25/virtualization/windowscontainers/reference/ps_docker_comparison.md) | HandedOff | [Details](#4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263)
 
 ## Item Details
-##### <a name='a3901c8d691fd09533a40e9e689d32d2c2e22a0e263'></a> Source: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/579ca159f4834a3749a3fdaaea93734a2982d809/virtualization/windowscontainers/reference/ps_docker_comparison.md)
+##### <a name='4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263'></a> Source: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/26fd891c3f930fd6a244f30ba33fe08e01456d25/virtualization/windowscontainers/reference/ps_docker_comparison.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/16099e94c767e8fa3383a8d9dc2ddaa877770615/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.zh-tw.xlf)
+* Handoff File: [ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e417060d841f0b062847981112e7c4137587f3b0/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.zh-tw.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-10-28 00:17:15
+* Handoff Datetime: 2015-10-28 04:51:32
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)
