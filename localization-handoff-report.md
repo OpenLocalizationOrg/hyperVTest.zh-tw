@@ -13,10 +13,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e81e41129a795d7923edefa2da515b9c2f985b2c/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.zh-tw.xlf)
-* Handback File: 
 * Handoff Datetime: 2015-11-13 20:37:10
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
