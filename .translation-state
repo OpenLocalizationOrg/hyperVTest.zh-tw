@@ -3,6 +3,7 @@
   "LastTranslatedCommit": null,
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
+      "FileHash": "08796bf856b1936c65df41076765d9f33d79e268",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\community\\community_overview.md",
       "TargetFileCommit": null,
@@ -15,9 +16,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\community\\community_overview.md"
+      ]
     },
     "8c7bbfb4cce7933f3288aba80a80507b399ac776": {
+      "FileHash": "8c7bbfb4cce7933f3288aba80a80507b399ac776",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md",
       "TargetFileCommit": null,
@@ -30,9 +35,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md"
+      ]
     },
     "2ad607964e95e5dc4570fd2fc1ce05f592bf08f0": {
+      "FileHash": "2ad607964e95e5dc4570fd2fc1ce05f592bf08f0",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md",
       "TargetFileCommit": null,
@@ -45,9 +54,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+      ]
     },
     "851345687639b6942357c4f7518a4fe528d952da": {
+      "FileHash": "851345687639b6942357c4f7518a4fe528d952da",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\whats_new.md",
       "TargetFileCommit": null,
@@ -60,9 +73,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\whats_new.md"
+      ]
     },
     "e619d100df5a48af0729a7267eb416810cefcb98": {
+      "FileHash": "e619d100df5a48af0729a7267eb416810cefcb98",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
       "TargetFileCommit": null,
@@ -75,9 +92,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md"
+      ]
     },
     "1e570b48f01ed63333705d5da5031bc706a67a94": {
+      "FileHash": "1e570b48f01ed63333705d5da5031bc706a67a94",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md",
       "TargetFileCommit": null,
@@ -90,9 +111,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
+      ]
     },
     "822e6cee5989d29adf7c12b0b37cbdf01a96c88c": {
+      "FileHash": "822e6cee5989d29adf7c12b0b37cbdf01a96c88c",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md",
       "TargetFileCommit": null,
@@ -105,9 +130,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md"
+      ]
     },
     "3d3f98ee3495a340c7fb56e15f900aa719ebc15e": {
+      "FileHash": "3d3f98ee3495a340c7fb56e15f900aa719ebc15e",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
       "TargetFileCommit": null,
@@ -120,9 +149,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+      ]
     },
     "df858fce3585e102d26f467bca2b0755ecf24824": {
+      "FileHash": "df858fce3585e102d26f467bca2b0755ecf24824",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "TargetFileCommit": null,
@@ -135,9 +168,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
+      ]
     },
     "c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0": {
+      "FileHash": "c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md",
       "TargetFileCommit": null,
@@ -150,9 +187,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
+      ]
     },
     "c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191": {
+      "FileHash": "c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
       "TargetFileCommit": null,
@@ -165,9 +206,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+      ]
     },
     "64d931f0509211ef361f5e86225a53ab5fdd9131": {
+      "FileHash": "64d931f0509211ef361f5e86225a53ab5fdd9131",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md",
       "TargetFileCommit": null,
@@ -180,9 +225,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
+      ]
     },
     "dbc749a61f352dc78621c582e6d5c1807eb00c6a": {
+      "FileHash": "dbc749a61f352dc78621c582e6d5c1807eb00c6a",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
       "TargetFileCommit": null,
@@ -195,9 +244,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\TOC.md"
+      ]
     },
     "9e94b37091423c59cd9ac3d2ed81e02e0226ec49": {
+      "FileHash": "9e94b37091423c59cd9ac3d2ed81e02e0226ec49",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md",
       "TargetFileCommit": null,
@@ -210,9 +263,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
+      ]
     },
     "55744774ff20c1dd435f1d7ca0eafb3332b201f3": {
+      "FileHash": "55744774ff20c1dd435f1d7ca0eafb3332b201f3",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\export_import.md",
       "TargetFileCommit": null,
@@ -225,9 +282,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
+      ]
     },
     "4230e3947db642bf5c520ef9e32130b41e4ab3fa": {
+      "FileHash": "4230e3947db642bf5c520ef9e32130b41e4ab3fa",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md",
       "TargetFileCommit": null,
@@ -240,9 +301,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md"
+      ]
     },
     "a74f3687bd3a1fe2b92bf8424df6957c6b223aa4": {
+      "FileHash": "a74f3687bd3a1fe2b92bf8424df6957c6b223aa4",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md",
       "TargetFileCommit": null,
@@ -255,9 +320,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
+      ]
     },
     "d772ee3e60961445f6ad27f6d2e2f14678d990e1": {
+      "FileHash": "d772ee3e60961445f6ad27f6d2e2f14678d990e1",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md",
       "TargetFileCommit": null,
@@ -270,9 +339,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md"
+      ]
     },
     "c9963491668f14ebc3a62e3d8e0d43d744a1d341": {
+      "FileHash": "c9963491668f14ebc3a62e3d8e0d43d744a1d341",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md",
       "TargetFileCommit": null,
@@ -285,9 +358,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md"
+      ]
     },
     "2630f2629bf19ce887b373fcbd3bc26fe879d061": {
+      "FileHash": "2630f2629bf19ce887b373fcbd3bc26fe879d061",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md",
       "TargetFileCommit": null,
@@ -300,9 +377,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
+      ]
     },
     "2ab22bc1342caf5d48b296ed54a5d76ea1648326": {
+      "FileHash": "2ab22bc1342caf5d48b296ed54a5d76ea1648326",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome_new.md",
       "TargetFileCommit": null,
@@ -315,9 +396,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\windows_welcome_new.md"
+      ]
     },
     "6c0ebd80ac08763eafebe935b08194a526ad59fa": {
+      "FileHash": "6c0ebd80ac08763eafebe935b08194a526ad59fa",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\container_ecosystem.md",
       "TargetFileCommit": null,
@@ -330,9 +415,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\about\\container_ecosystem.md"
+      ]
     },
     "f176f83a5f5bc76e32b5687866d2ced7d0a91d57": {
+      "FileHash": "f176f83a5f5bc76e32b5687866d2ced7d0a91d57",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\faq.md",
       "TargetFileCommit": null,
@@ -345,9 +434,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\about\\faq.md"
+      ]
     },
     "090e2dccc937df4c7a80f63b447cb733af5020a3": {
+      "FileHash": "090e2dccc937df4c7a80f63b447cb733af5020a3",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\work_in_progress.md",
       "TargetFileCommit": null,
@@ -360,9 +453,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\about\\work_in_progress.md"
+      ]
     },
     "bca267ee574504e3cb6d2c42f2aa095a3ace3619": {
+      "FileHash": "bca267ee574504e3cb6d2c42f2aa095a3ace3619",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\container_setup.md",
       "TargetFileCommit": null,
@@ -375,9 +472,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\container_setup.md"
+      ]
     },
     "8ff71abc14066d1fcaf3324d44c3e6be492a93cc": {
+      "FileHash": "8ff71abc14066d1fcaf3324d44c3e6be492a93cc",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\inplace_setup.md",
       "TargetFileCommit": null,
@@ -390,9 +491,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\inplace_setup.md"
+      ]
     },
     "c0fc8a8c7da42ab56f16e38c567254338f693653": {
+      "FileHash": "c0fc8a8c7da42ab56f16e38c567254338f693653",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
       "TargetFileCommit": null,
@@ -405,9 +510,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\manage_docker.md"
+      ]
     },
     "2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a": {
+      "FileHash": "2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_powershell.md",
       "TargetFileCommit": null,
@@ -420,9 +529,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
+      ]
     },
     "8c1510a894cbdfdb23c23ecdeeeedb2197e43c63": {
+      "FileHash": "8c1510a894cbdfdb23c23ecdeeeedb2197e43c63",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\quickstart.md",
       "TargetFileCommit": null,
@@ -435,9 +548,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\quickstart.md"
+      ]
     },
     "a80e3c491fbd6c71380e1d8dc3589fc28c2b8caf": {
+      "FileHash": "a80e3c491fbd6c71380e1d8dc3589fc28c2b8caf",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\app_compat.md",
       "TargetFileCommit": null,
@@ -450,9 +567,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\reference\\app_compat.md"
+      ]
     },
     "041b88830b633f85459d3b5be24b0d68ba8071bd": {
+      "FileHash": "041b88830b633f85459d3b5be24b0d68ba8071bd",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\powershell_overview.md",
       "TargetFileCommit": null,
@@ -465,9 +586,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\reference\\powershell_overview.md"
+      ]
     },
     "a9225b180b1df05d803b0ba2f23be237d7176f4d": {
+      "FileHash": "a9225b180b1df05d803b0ba2f23be237d7176f4d",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
       "TargetFileCommit": null,
@@ -480,9 +605,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md"
+      ]
     },
     "c9a613b41195c01471a39d59e0fccdb2e226b08a": {
+      "FileHash": "c9a613b41195c01471a39d59e0fccdb2e226b08a",
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
       "SourceFilePath": "virtualization\\windowscontainers\\TOC.md",
       "TargetFileCommit": null,
@@ -495,9 +624,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\TOC.md"
+      ]
     },
     "47774db49f5a1c02facd46120ba88a3398a23212": {
+      "FileHash": "47774db49f5a1c02facd46120ba88a3398a23212",
       "SourceFileCommit": "ae0888ddd727101ca8f9a1851b49a3d43ff9cba4",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md",
       "TargetFileCommit": null,
@@ -510,9 +643,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
+      ]
     },
     "6e6654d6927576afc187da66981ad014e0c8c78e": {
+      "FileHash": "6e6654d6927576afc187da66981ad014e0c8c78e",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "README.md",
       "TargetFileCommit": null,
@@ -525,9 +662,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "README.md"
+      ]
     },
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
+      "FileHash": "d95757903564f8beea62ad4d2977764d431eeeb8",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\community\\TOC.md",
       "TargetFileCommit": null,
@@ -540,9 +681,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\community\\TOC.md"
+      ]
     },
     "0d42636f079f356bf0cb9f48d6b3064707801930": {
+      "FileHash": "0d42636f079f356bf0cb9f48d6b3064707801930",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
       "TargetFileCommit": null,
@@ -555,9 +700,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+      ]
     },
     "1b5101077f3e767271d04f29ca747202ae4586ff": {
+      "FileHash": "1b5101077f3e767271d04f29ca747202ae4586ff",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md",
       "TargetFileCommit": null,
@@ -570,9 +719,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
+      ]
     },
     "1cd230752f52bb9786821493df48c8a5a2a2f903": {
+      "FileHash": "1cd230752f52bb9786821493df48c8a5a2a2f903",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\about_overview.md",
       "TargetFileCommit": null,
@@ -585,9 +738,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\about\\about_overview.md"
+      ]
     },
     "8bad34c32f6802052d5d63f1bb86a7cff755c55a": {
+      "FileHash": "8bad34c32f6802052d5d63f1bb86a7cff755c55a",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
       "TargetFileCommit": null,
@@ -600,9 +757,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\containers_welcome.md"
+      ]
     },
     "7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32": {
+      "FileHash": "7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
       "TargetFileCommit": null,
@@ -615,9 +776,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\EULA.md"
+      ]
     },
     "d82cfc8ade5b456e690bd35933eb2b939a4ed847": {
+      "FileHash": "d82cfc8ade5b456e690bd35933eb2b939a4ed847",
       "SourceFileCommit": "1fb350e3e83de4b8c216f9d75d564bc06c5cab7a",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\azure_setup.md",
       "TargetFileCommit": null,
@@ -630,7 +795,10 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
+      ]
     }
   }
 }
