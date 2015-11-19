@@ -180,6 +180,9 @@
   "e16d508640119c3960e875aaa3b3c1ce48d7bfc6": [
     "virtualization\\hyperv_on_windows\\about\\whats_new_nov.md"
   ],
+  "2b9e9b367c183aac1bdafacbe6bbe4a65d45d585": [
+    "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
+  ],
   "7c8369907f03597d2426402b6d4cd79fd10afb88": [
     "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
   ],
