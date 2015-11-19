@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 159
+ Total Files | 160
 
 ## File List
  Source File | Status | Details 
@@ -103,6 +103,7 @@
  [virtualization\community\docfx.json](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/community/docfx.json) | Ignored | [Details](#5766b15b947913f0453713d51436c75135ef55ac94)
  [virtualization\hyperv_on_windows\about\media\ProductionCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/about/media/ProductionCheckpoints.png) | Ignored | [Details](#00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed096)
  [virtualization\hyperv_on_windows\about\media\StandardCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/about/media/StandardCheckpoints.png) | Ignored | [Details](#907679edd04736394d4e796f706436d114baec4f97)
+ [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | Ignored | [Details](#dbafa1d6e63dbfd904402ffa16033bd0fe63005e98)
  [virtualization\hyperv_on_windows\docfx.json](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/docfx.json) | Ignored | [Details](#360b3c1279ae100996ef862613d60953795f2843103)
  [virtualization\hyperv_on_windows\media\develop.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/media/develop.png) | Ignored | [Details](#69c3c4eebc733c161611f243f4ec008782fdccfd106)
  [virtualization\hyperv_on_windows\quick_start\media\applied_production.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/quick_start/media/applied_production.png) | Ignored | [Details](#ef703b72761888dcdd6066d39283537620066e7f111)
@@ -1128,6 +1129,16 @@
 * [Back to Top](#report-top)
 
 ##### <a name='907679edd04736394d4e796f706436d114baec4f97'></a> Source: [virtualization\hyperv_on_windows\about\media\StandardCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/about/media/StandardCheckpoints.png)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='dbafa1d6e63dbfd904402ffa16033bd0fe63005e98'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3415fa97979e693287abc9867c1094e202db759a/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
