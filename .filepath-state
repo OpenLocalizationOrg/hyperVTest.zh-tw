@@ -174,12 +174,6 @@
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
   ],
-  "2c4168559e894467d2db48659da146837b67fc38": [
-    "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md"
-  ],
-  "d8b6515a9b51164418722d001df4a3fb1f0798ff": [
-    "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md"
-  ],
   "b0a1d4eaf7787cafeeb5777d4d869330f94793cd": [
     "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
   ],
