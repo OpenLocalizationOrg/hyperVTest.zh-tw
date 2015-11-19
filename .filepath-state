@@ -222,6 +222,9 @@
   "1958cab11e62080b7dfc8dd8e1f6d41e4b438683": [
     "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
   ],
+  "3147764c0d5fe0b34baf8caa7c87d2034eb543ef": [
+    "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md"
+  ],
   "a73d8461fbe77f0ecd02c8c7e8b6d70f96464d51": [
     "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md"
   ],
