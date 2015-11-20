@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/178c959821157eeaf6ad8a5f87f2fd4b83e2cea9/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | HandedOff | [Details](#dbafa1d6e63dbfd904402ffa16033bd0fe63005e98)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/02394629594e9a7913b5f395aca5e66ace407e75/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | HandedOff | [Details](#a0dbaa21b5dee2e66567ce907c3e892b5fee4d50175)
 
 ## Item Details
-##### <a name='dbafa1d6e63dbfd904402ffa16033bd0fe63005e98'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/178c959821157eeaf6ad8a5f87f2fd4b83e2cea9/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
+##### <a name='a0dbaa21b5dee2e66567ce907c3e892b5fee4d50175'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/02394629594e9a7913b5f395aca5e66ace407e75/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e7de953abbe6e882a6b363f8ff834f2cdf464cde/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-tw.xlf)
-* Handoff Datetime: 2015-11-19 07:32:01
+* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/d02647f1a729551e91718477e2d334b5430974a1/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-tw.xlf)
+* Handoff Datetime: 2015-11-20 18:56:07
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
