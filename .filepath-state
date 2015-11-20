@@ -222,6 +222,9 @@
   "3ad17dbfa5dc1029c8196efe7ea00a259489e526": [
     "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
   ],
+  "a43c4b1981e5a2c5c56f361d02c02e2a1b0f6e51": [
+    "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
+  ],
   "1958cab11e62080b7dfc8dd8e1f6d41e4b438683": [
     "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
   ],
