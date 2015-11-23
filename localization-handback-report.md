@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 159
+ Total Files | 160
 
 ## File List
  Source File | Status | Details 
@@ -126,6 +126,7 @@
  [virtualization\hyperv_on_windows\quick_start\media\systeminfo.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/quick_start/media/systeminfo.png) | Ignored | [Details](#0a5cf2ba600896aeab999b4e8d62df930ee0226d168)
  [virtualization\hyperv_on_windows\quick_start\media\virtual_switch_manager.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/quick_start/media/virtual_switch_manager.png) | Ignored | [Details](#64a15781d204035d9309edfbfb5d9da7489f707e171)
  [virtualization\hyperv_on_windows\quick_start\media\vmconnect_start_button.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/quick_start/media/vmconnect_start_button.png) | Ignored | [Details](#264bde04cf7bc72f9718fbe8753b29f714c02572173)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | Ignored | [Details](#5d6cb109a4da839670b5e2f494a8d7302baa4e2e175)
  [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/hyperv_on_windows/TOC.md) | Ignored | [Details](#d8a4692ec68e58781b25eea1753a7c356b40763f183)
  [virtualization\hyperv_on_windows\user_guide\media\EnterCreds.PNG](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/user_guide/media/EnterCreds.PNG) | Ignored | [Details](#e4bd46363518215cafab94f61cd83be673624f7e186)
  [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHostWin8.PNG](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHostWin8.PNG) | Ignored | [Details](#f256488c87570f303ea12b525a0905a4d3b610d6191)
@@ -1358,6 +1359,16 @@
 * [Back to Top](#report-top)
 
 ##### <a name='264bde04cf7bc72f9718fbe8753b29f714c02572173'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\vmconnect_start_button.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/quick_start/media/vmconnect_start_button.png)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='5d6cb109a4da839670b5e2f494a8d7302baa4e2e175'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/bf8b3f9f4481b4b5834852a474b0a4d627b98e54/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
