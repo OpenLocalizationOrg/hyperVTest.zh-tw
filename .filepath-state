@@ -219,6 +219,9 @@
   "5124dddf1751ef0016dcd32ae0611e81612d7ff7": [
     "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
   ],
+  "02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a": [
+    "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
+  ],
   "d1498bd9bc60453542fdb1221b47fc1f7f2b8e94": [
     "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
   ],
@@ -227,6 +230,9 @@
   ],
   "3ad17dbfa5dc1029c8196efe7ea00a259489e526": [
     "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
+  ],
+  "d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a": [
+    "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
   ],
   "a43c4b1981e5a2c5c56f361d02c02e2a1b0f6e51": [
     "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"

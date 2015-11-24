@@ -1,19 +1,30 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2bb36be503f6cf089844eebf3081f2c32f9890b1/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | HandedOff | [Details](#5d6cb109a4da839670b5e2f494a8d7302baa4e2e175)
+ [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/checkpoints.md) | HandedOff | [Details](#d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a184)
+ [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/remote_host_management.md) | HandedOff | [Details](#02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a193)
 
 ## Item Details
-##### <a name='5d6cb109a4da839670b5e2f494a8d7302baa4e2e175'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2bb36be503f6cf089844eebf3081f2c32f9890b1/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
+##### <a name='d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a184'></a> Source: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ead090de8239c57545d7b8ca97646a6636878e4/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-tw.xlf)
-* Handoff Datetime: 2015-11-23 21:08:26
+* Handoff File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/462dddfa8ac17fef3b63880f34813d38459a891a/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.zh-tw.xlf)
+* Handoff Datetime: 2015-11-24 17:51:11
+* Handoff Reason: Include
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a193'></a> Source: [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/remote_host_management.md)
+* Status: HandedOff
+* Target File: 
+* Handoff File: [remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/462dddfa8ac17fef3b63880f34813d38459a891a/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-tw/master/remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.zh-tw.xlf)
+* Handoff Datetime: 2015-11-24 17:51:11
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
