@@ -352,6 +352,9 @@
   "40f2523ee91b3c36ce0d586deaaf5da9f5d2f0a7": [
     "virtualization\\windowscontainers\\quick_start\\quickstart.md"
   ],
+  "47df0521648aa201fe51d32cae3106500f417e91": [
+    "virtualization\\windowscontainers\\reference\\app_compat.md"
+  ],
   "c1f617b6979a758331e6d4e3c48f8846d5b59326": [
     "virtualization\\windowscontainers\\reference\\app_compat.md"
   ],
