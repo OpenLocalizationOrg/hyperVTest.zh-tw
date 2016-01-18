@@ -295,6 +295,9 @@
   "19c1070cee496d52eba1b2ce80f4f939edccdffd": [
     "virtualization\\windowscontainers\\quick_start\\media\\hello.png"
   ],
+  "ecf704776198d2aa9f274a7a5dfac99b59bc9e44": [
+    "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
+  ],
   "68012ade3e635310f9289881babc17277de8b50b": [
     "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
   ],
