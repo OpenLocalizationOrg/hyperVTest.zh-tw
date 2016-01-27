@@ -145,5 +145,8 @@
   ],
   "d82cfc8ade5b456e690bd35933eb2b939a4ed847": [
     "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
+  ],
+  "a04371dfc184446dade04e9e8795028ede684c8f": [
+    "virtualization\\hyperv_on_windows\\test.md"
   ]
 }
