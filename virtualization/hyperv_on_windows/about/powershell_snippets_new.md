@@ -2,7 +2,7 @@ ms.ContentId: 8DE9250B-556B-47BC-AD9A-8992B3D3D0F9
 title: PowerShell Snippets
 
 # PowerShell Snippets
-
+在 Microsoft Intune 管理主控台中，選擇 [群組] > [所有裝置] (或包含您想要淘汰之電腦的其他群組)。
 18-Nov update for user scinario part 5.Adding this sentence to validate the bug 451132 result. PowerShell is an awesome scripting, automation, and management tool for Hyper-V.  Here is a toolbox for exploring some of the cool things it can do!
 
 All Hyper-V management requires running as administrator so assume all scripts and snippets must be run as administrator from a Hyper-V Administrator account.
